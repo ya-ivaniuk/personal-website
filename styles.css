@@ -27,7 +27,7 @@
     }
     h1 {
         
-        font-size: 30px;
+        font-size: 26px;
         position: relative;
         margin-left: 40px;
         
@@ -80,7 +80,7 @@
         scroll-behavior: smooth;
         background-image: url("profile-pic-2.JPG");
         background-size: cover;
-        background-position: -50px 0px;
+        background-position: -155px 0px;
         border-bottom-left-radius: 5px;
         border-bottom-right-radius: 5px;
         padding: 40px;
@@ -92,7 +92,7 @@
     }
 
     .hero-text {
-        width: 80%;
+        width: 90%;
         position: relative;
         margin-top: 60px;
         
